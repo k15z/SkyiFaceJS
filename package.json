@@ -1,0 +1,16 @@
+{
+  "name": "skyi-face-js",
+  "version": "1.0.0",
+  "description": "Offline javascript face recognition.",
+  "bin": {
+    "skyi-face-js": "skyi-face.js"
+  },
+  "dependencies": {
+    "svm": "^0.1.1"
+  },
+  "devDependencies": {
+    "rimraf": "^2.5.2"
+  },
+  "author": "Kevin Zhang <kevz@mit.edu>",
+  "license": "MIT"
+}
